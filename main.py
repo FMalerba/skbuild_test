@@ -1,4 +1,4 @@
 import skbuild_test
 
 
-skbuild_test.hello_world()
+skbuild_test.main.hello_world()

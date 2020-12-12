@@ -1,0 +1,1 @@
+from skbuild_test import main
