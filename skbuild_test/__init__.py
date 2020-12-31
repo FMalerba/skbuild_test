@@ -1,1 +1,1 @@
-from skbuild_test import main
+from skbuild_test import lib_main
